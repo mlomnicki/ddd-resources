@@ -49,3 +49,18 @@ Scala
 
 * https://github.com/pawelkaczor/ddd-leaven-akka-v2
 * https://github.com/boldradius/akka-dddd-template
+
+Articles
+========
+
+* Effective Aggregate Design by Vaughn Vernon
+  [part 1](http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+  [part 2](http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf)
+  [part 3](http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_3.pdf)
+* [The Ideal Domain-Driven Design Aggregate Store? by Vaughn Vernon](https://vaughnvernon.co/?p=942)
+* [Domain Events - Salvation by Udi Dahan](http://udidahan.com/2009/06/14/domain-events-salvation/)
+* [Clarified CQRS by Udi Dahan](http://udidahan.com/2009/12/09/clarified-cqrs/)
+* [Domain Events by Mathias Verraes](http://verraes.net/2014/11/domain-events/)
+* [Services in DDD by Lev Gorodinsky](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
+* [Why use event sourcing by Greg Young](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)
+* [Introducing Event Storming by Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
