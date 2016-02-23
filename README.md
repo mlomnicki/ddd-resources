@@ -26,6 +26,7 @@ JavaScript
 ==========
 
 * https://github.com/liangzeng/cqrs
+* https://www.npmjs.com/package/eventstore
 
 PHP
 ===
