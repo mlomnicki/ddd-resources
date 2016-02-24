@@ -70,3 +70,4 @@ Articles
 * [Are you making these 10 DDD mistakes by Daniel Whittaker](http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/)
 * [Event Sourcing in practice by Benjamin Reitzammer & Johannes Seitz](http://ookami86.github.io/event-sourcing-in-practice/)
 * [CQRS FAQ](http://cqrs.nu/Faq)
+* [CQRS, Domain Events and DDD review by Vadim Comanescu](http://vadimcomanescu.net/2012/06/26/cqrs-domain-events-and-ddd-review/)
