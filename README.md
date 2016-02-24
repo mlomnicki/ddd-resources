@@ -69,3 +69,4 @@ Articles
 * [Introducing Event Storming by Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 * [Are you making these 10 DDD mistakes by Daniel Whittaker](http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/)
 * [Event Sourcing in practice by Benjamin Reitzammer & Johannes Seitz](http://ookami86.github.io/event-sourcing-in-practice/)
+* [CQRS FAQ](http://cqrs.nu/Faq)
