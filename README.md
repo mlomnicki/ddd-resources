@@ -85,3 +85,4 @@ Videos
 ======
 
 * [What SOA do you have?](https://vimeo.com/64505378)
+* [From a monolithic Ruby on Rails app to the JVM by Phil Calcado](http://www.slideshare.net/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm)
