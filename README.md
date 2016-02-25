@@ -79,3 +79,8 @@ Presentations
 ============
 
 * [SOA & EDA](http://www.slideshare.net/jeppec/soa-eda-follow-up)
+
+Videos
+======
+
+* [What SOA do you have?](https://vimeo.com/64505378)
