@@ -73,3 +73,4 @@ Articles
 * [CQRS FAQ](http://cqrs.nu/Faq)
 * [CQRS, Domain Events and DDD review by Vadim Comanescu](http://vadimcomanescu.net/2012/06/26/cqrs-domain-events-and-ddd-review/)
 * [Sagas by Hector Garcia-Molina & Kenneth Salem](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+* [SOA Patterns : Composite Frontend by Arnon Rotem-Gal-Oz](http://arnon.me/2011/10/soa-patterns-composite-frontend/)
