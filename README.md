@@ -63,6 +63,7 @@ Articles
 * [Domain Events - Salvation by Udi Dahan](http://udidahan.com/2009/06/14/domain-events-salvation/)
 * [Clarified CQRS by Udi Dahan](http://udidahan.com/2009/12/09/clarified-cqrs/)
 * [Saga Persistence and Event-Driven Architectures by Udi Dahan](http://udidahan.com/2009/04/20/saga-persistence-and-event-driven-architectures/)
+* [UI Composition Techniques for Correct Service Boundires by Udi Dahan](http://udidahan.com/2012/06/23/ui-composition-techniques-for-correct-service-boundaries/)
 * [Domain Events by Mathias Verraes](http://verraes.net/2014/11/domain-events/)
 * [Services in DDD by Lev Gorodinsky](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
 * [Why use event sourcing by Greg Young](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)
