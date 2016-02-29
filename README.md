@@ -80,6 +80,7 @@ Presentations
 ============
 
 * [SOA & EDA](http://www.slideshare.net/jeppec/soa-eda-follow-up)
+* [(Not) Saga about Sagas by Mirek Pragłowski](http://praglowski.com/presentations/notsagaaboutsagas)
 
 Videos
 ======
