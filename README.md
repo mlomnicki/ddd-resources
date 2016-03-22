@@ -80,6 +80,7 @@ Articles
   [part 2 - Command Handlers](http://rdingwall.com/2010/06/16/brownfield-cqrs-part-2-command-handlers/)
   [part 3 - Queries, Parameters and Results](http://rdingwall.com/2010/06/16/brownfield-cqrs-part-3-queries-parameters-and-results/)
   [part 4 - Command Dispatcher](http://rdingwall.com/2010/06/17/brownfield-cqrs-part-4-command-dispatcher/)
+* [Command Bus in Axon Framework](http://www.axonframework.org/docs/2.0/command-handling.html)
 
 Presentations
 ============
