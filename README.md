@@ -75,6 +75,11 @@ Articles
 * [Sagas by Hector Garcia-Molina & Kenneth Salem](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [SOA Patterns : Composite Frontend by Arnon Rotem-Gal-Oz](http://arnon.me/2011/10/soa-patterns-composite-frontend/)
 * [Microservices - 72 resources by Pawel Pacana](http://blog.arkency.com/2014/07/microservices-72-resources/)
+* Brownfield CQRS by Richard Dingwall
+  [part 1 - Commands](http://rdingwall.com/2010/06/15/brownfield-cqrs-part-1-commands/)
+  [part 2 - Command Handlers](http://rdingwall.com/2010/06/16/brownfield-cqrs-part-2-command-handlers/)
+  [part 3 - Queries, Parameters and Results](http://rdingwall.com/2010/06/16/brownfield-cqrs-part-3-queries-parameters-and-results/)
+  [part 4 - Command Dispatcher](http://rdingwall.com/2010/06/17/brownfield-cqrs-part-4-command-dispatcher/)
 
 Presentations
 ============
