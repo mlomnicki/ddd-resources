@@ -86,6 +86,7 @@ Presentations
 ============
 
 * [SOA & EDA](http://www.slideshare.net/jeppec/soa-eda-follow-up)
+* [CQRS and Event Sourcing, An Alternative Architecture for DDD by Dennis Doomen](http://www.slideshare.net/dennisdoomen/cqrs-and-event-sourcing-an-alternative-architecture-for-ddd)
 * [(Not) Saga about Sagas by Mirek Pragłowski](http://praglowski.com/presentations/notsagaaboutsagas)
 * [The Saga Pattern by Robert Pankowecki](https://blog.arkency.com/course/saga/)
 
