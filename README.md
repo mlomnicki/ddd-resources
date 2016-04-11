@@ -23,6 +23,7 @@ Java
 * https://github.com/BottegaIT/ddd-leaven-v2
 * https://github.com/citerus/dddsample-core
 * https://github.com/paoesco/cargotracker-ddd
+* https://github.com/AxonFramework/Axon-trader
 
 JavaScript
 ==========
