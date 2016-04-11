@@ -10,6 +10,7 @@ C#
 * https://github.com/gregoryyoung/m-r
 * https://github.com/SzymonPobiega/DDDSample.Net
 * https://github.com/mspnp/cqrs-journey
+* https://github.com/MarkNijhof/Fohjin
 * https://github.com/zkavtaskin/Domain-Driven-Design-Example
 * https://github.com/thiagolunardi/MvcMusicStoreDDD
 * https://github.com/markva/DDD
