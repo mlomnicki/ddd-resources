@@ -8,6 +8,7 @@ C#
 
 * https://github.com/VaughnVernon/IDDD_Samples_NET
 * https://github.com/gregoryyoung/m-r
+* https://github.com/lokad/lokad-cqrs/
 * https://github.com/SzymonPobiega/DDDSample.Net
 * https://github.com/mspnp/cqrs-journey
 * https://github.com/MarkNijhof/Fohjin
