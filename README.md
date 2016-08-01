@@ -17,6 +17,10 @@ C#
 * https://github.com/markva/DDD
 * https://github.com/andreazevedo/petstore-ddd-csharp.git
 
+Erlang
+======
+* https://github.com/bryanhunter/cqrs-with-erlang
+
 Java
 ====
 
