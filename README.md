@@ -59,6 +59,7 @@ Scala
 
 * https://github.com/pawelkaczor/ddd-leaven-akka-v2
 * https://github.com/boldradius/akka-dddd-template
+* https://github.com/strongtyped/fun-cqrs
 
 Articles
 ========
